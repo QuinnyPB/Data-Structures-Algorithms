@@ -1,3 +1,5 @@
+# This program checks for all fizzes (numbers which are equal to 3 or the previous number plus 3)
+# and for buzzes (numbers equal to 5 or the previous number plus 5)
 
 fizzes = [3]
 buzzes = [5]
